@@ -1,0 +1,56 @@
+.odin {
+  width: 65px;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: orange;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid orange;
+}
+.styles {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+h4 {
+  font-family: cursive;
+}
+.car {
+  display: flex;
+  place-items: center;
+}
+#head {
+  margin-left: 5em;
+  margin-top: -2.4em;
+}
+#logo {
+  font-size: 30px;
+}
+#state {
+  margin-top: -1em;
+}
+.box {
+  background-color: grey;
+  width: 600px;
+  height: 200px;
+
+  border-radius: 5px;
+}
+#input {
+  width: 500px;
+  margin: 2em;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+}
+#gtn {
+  float: right;
+  margin-top: -4.8em;
+  position: relative;
+  background-color: skyblue;
+  margin-right: 4.7em;
+}
+#ln {
+  text-decoration: none;
+}

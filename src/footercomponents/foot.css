@@ -1,0 +1,56 @@
+.sector {
+  display: grid;
+  place-items: center;
+}
+#rat {
+  width: 60px;
+  border-radius: 60px;
+  margin-left: 1em;
+  margin-top: 0.6em;
+}
+#name {
+  margin-left: 5.5em;
+  margin-top: -3.3em;
+}
+#role {
+  margin-left: 5.5em;
+  margin-top: -1.8em;
+}
+#pea {
+  width: 900px;
+  border: white;
+  border-radius: 5px;
+  height: 250px;
+}
+#desc {
+  font-size: 18px;
+}
+#pea:nth-child(7) {
+  height: 290px;
+}
+#pea:nth-child(15) {
+  height: 295px;
+}
+#pea:nth-child(36) {
+  height: 295px;
+}
+.flask {
+  margin: 1em;
+}
+#angle {
+  float: right;
+  color: grey;
+  font-size: 25px;
+}
+#perth {
+  margin: 1em;
+  color: grey;
+}
+#hi {
+  color: grey;
+  width: 700px;
+  margin-left: -1em;
+}
+.card {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+}
